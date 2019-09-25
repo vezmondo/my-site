@@ -1,0 +1,65 @@
+body {
+  font-family: 'Slabo 27px', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+font-size: 60px;
+  font-family: 'Vibur', cursive;
+    margin-top: 0;
+}
+
+h2 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 40px
+}
+
+h3 {
+font-family: 'Slabo 27px', serif;
+font-size: 30px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.top-container {
+  background-color: #e6f8f9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.top-sun {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.linkedin {
+  height: 30px;
+  width: 30px;
+}
+
+.twitter {
+  height: 30px;
+  width: 30px;
+}
+.insta {
+  height: 30px;
+  width: 30px;
+}
